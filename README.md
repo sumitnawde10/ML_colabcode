@@ -43,8 +43,3 @@ numpy
 
 tensorflow (for deep learning notebooks)
 pip install -r requirements.txt
-
-Author
-Sumit Nawde
-GitHub Profile
-Feel free to reach out for collaboration, improvements, or feedback!
