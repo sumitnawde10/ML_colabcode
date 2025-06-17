@@ -13,7 +13,6 @@ This repository contains various machine learning notebooks developed using **Go
 | `KMeans_Clustering.ipynb` | Unsupervised learning with K-Means |
 | `PCA_Dimensionality_Reduction.ipynb` | Dimensionality reduction using PCA |
 | `Deep_Learning_Intro.ipynb` | Intro to neural networks using Keras & TensorFlow |
-> *(Add/edit rows based on your actual notebooks)*
 
 ---
 
